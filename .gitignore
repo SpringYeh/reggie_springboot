@@ -1,0 +1,10 @@
+.git
+logs
+.DS_Store
+*.class
+
+.idea
+target/
+*.iml
+*.iws
+*.ipr
